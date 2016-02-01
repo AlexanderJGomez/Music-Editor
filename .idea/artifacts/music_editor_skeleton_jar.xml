@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="music-editor-skeleton:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/music_editor_skeleton_jar</output-path>
+    <root id="archive" name="music-editor-skeleton.jar">
+      <element id="module-output" name="music-editor-skeleton" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/4.7/junit-4.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

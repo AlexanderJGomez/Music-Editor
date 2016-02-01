@@ -6,6 +6,8 @@ note 4 6 1 60 71
 note 6 8 1 62 79
 note 8 15 1 55 79
 note 8 10 1 64 85
+repeat 5 10 3
+ending 20 3 25 30 35
 note 10 12 1 64 78
 note 12 15 1 64 74
 note 16 24 1 55 77
